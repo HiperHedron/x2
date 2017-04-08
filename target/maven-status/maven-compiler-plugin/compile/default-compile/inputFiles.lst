@@ -1,0 +1,14 @@
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\web\ProfileServlet.java
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\web\SetPremiumServlet.java
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\web\LoginServlet.java
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\domain\HSQLDBConnect.java
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\web\filters\UserDataNotInSessionFilter.java
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\repositories\IUserRepository.java
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\domain\User.java
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\web\ShowProfilesServlet.java
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\domain\Validate.java
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\web\filters\PremiumOnlyAccessFilter.java
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\web\filters\UserDataInSessionFilter.java
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\web\RegisterServlet.java
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\web\filters\UserIsNotAdminFilter.java
+C:\Users\Lux\github\jaz2\JAZ2\src\main\java\repositories\DummyUserRepository.java

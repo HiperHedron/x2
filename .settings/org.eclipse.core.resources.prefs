@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/web/filters/PremiumOnlyAccessFilter.java=UTF-8
+encoding//src/main/java/web/filters/UserDataInSessionFilter.java=UTF-8
+encoding//src/main/java/web/filters/UserDataNotInSessionFilter.java=UTF-8
+encoding//src/main/java/web/filters/UserIsNotAdminFilter.java=UTF-8

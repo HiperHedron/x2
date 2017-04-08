@@ -1,0 +1,10 @@
+domain\Validate.class
+web\filters\PremiumOnlyAccessFilter.class
+web\ProfileServlet.class
+repositories\DummyUserRepository.class
+web\filters\UserIsNotAdminFilter.class
+domain\User.class
+repositories\IUserRepository.class
+web\filters\UserDataInSessionFilter.class
+web\SetPremiumServlet.class
+web\filters\UserDataNotInSessionFilter.class
